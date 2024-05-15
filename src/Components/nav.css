@@ -17,7 +17,7 @@
   display: flex;
   align-items: center;
   padding: 15px;
-  height: 120px;
+  height: 5rem;
   position: fixed;
   gap: 150px;
   background-color: white;
@@ -191,7 +191,7 @@ ul a {
     height: 60px;
     width: 30vw;
     font-size: 20px;
-    background-color: #9f9e6c;
+    background-color: #718C75;
     color: whitesmoke;
     border-radius: 7px;
     font-size: 25px;
@@ -204,7 +204,7 @@ ul a {
     height: 64px;
     width: 31vw;
     font-size: 20px;
-    background-color: #9f9e6c;
+    background-color: #2B382D;
     color: whitesmoke;
     border-radius: 14px;
     font-size: 25px;

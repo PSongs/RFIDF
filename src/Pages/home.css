@@ -54,9 +54,6 @@
   cursor: pointer;
 }
 
-
-
-
 .random-content {
   background-color: black;
   padding: 20px;
@@ -394,7 +391,7 @@ height: 100%;
 .ceezyLine h1 {
 text-align: center;
 font-size: 5vw;
-color: #201e1e;
+color: #201E1E;
 }
 
 
@@ -430,10 +427,10 @@ height: 100vh;
 .writeups
 {
   width: 100%;
-background-color: white;
- display: grid;
- grid-template-rows: 1fr 1fr 3fr;
- height: 100%;
+  background-color: white;
+  display: grid;
+  grid-template-rows: 1fr 1fr 3fr;
+  height: 100%;
 }
 
 
@@ -556,7 +553,7 @@ padding: 20px;
 .ceezyLine h3 {
 font-family: 'Nunito', sans-serif;
 text-align: center;
-color: #9f9e6c;
+color: #2B382D;
 }
 
 .donateBtns {
@@ -568,7 +565,7 @@ gap: 9vw;
 }
 
 .donateBtns button {
-background-color: #66593d;
+background-color: #2B382D;
 height: 60px;
 width: 250px;
 font-size: 20px;
@@ -608,7 +605,6 @@ color: orange;
 .War4oh h1 {
 align-items: center;
 font-size: 6vw;
-
 }
 
 .War4oh h3 {
@@ -628,8 +624,6 @@ padding: 40px;
 
 .swipers {
 width: 100vw;
-
-
 }
 
 .actiondiv {
@@ -647,10 +641,10 @@ gap: 40px;
       margin-bottom: 50px;
 }
 
-.actiondiv h1
-{
+.actiondiv h1{
 font-size: 5vw;
 }
+
 .actiondiv h2 {
 font-size: 3vw;
 text-align: center;
@@ -658,27 +652,17 @@ padding: 10px;
 padding-top: 60px;
 }
 
-.clickables video
-
-{
+.clickables video{
 width: 400px;
 height: 300px;
 margin-left: -28px;
-
-
-
-
 }
-
 
 .clickables img
 {
   width: 100%;
   height: 300px;
-  
-
 }
-
 
 .clickables
 {
@@ -692,8 +676,7 @@ justify-content: center;
 }
 
 
-.aface
-{
+.aface{
 display: flex;
 align-items: center;
 height: 70vh;
